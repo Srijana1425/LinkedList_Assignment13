@@ -10,7 +10,7 @@ list2 = 5->3->6->4<br>
 Output: New list = 5->8->9->4<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/LinkedList_Assignment13/blob/main/ans1.js)<br>
 ******************************************************************************************************************************
  **Question 2**<br>
 Write a function that takes a list sorted in non-decreasing order and deletes any duplicate nodes from the list. The list should only be traversed once.
@@ -23,7 +23,7 @@ Input:LinkedList: 10->12->12->25->25->25->34<br>
 Output:10->12->25->34<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/LinkedList_Assignment13/blob/main/ans2.js)<br>
 ******************************************************************************************************************************
 **Question 3**<br>
 Given a linked list of size **N**. The task is to reverse every **k** nodes (where k is an input to the function) in the linked list. If the number of nodes is not a multiple of *k* then left-out nodes, in the end, should be considered as a group and must be reversed (See Example 2 for clarification).<br>
@@ -43,7 +43,7 @@ first and then elements 4,5 are reversed.Hence,
 the resultant linked list is 3->2->1->5->4.<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/LinkedList_Assignment13/blob/main/ans3.js)<br>
 ******************************************************************************************************************************
 **Question 4**<br>
 Given a linked list, write a function to reverse every alternate k nodes (where k is an input to the function) in an efficient way. Give the complexity of your algorithm.<br>
@@ -52,7 +52,7 @@ Inputs:   1->2->3->4->5->6->7->8->9->NULL and k = 3<br>
 Output:   3->2->1->4->5->6->9->8->7->NULL.<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/LinkedList_Assignment13/blob/main/ans4.js)<br>
 ******************************************************************************************************************************
 **Question 5**<br>
 Given a linked list and a key to be deleted. Delete last occurrence of key from linked. The list may have duplicates.<br>
@@ -61,7 +61,7 @@ Input:   1->2->3->5->2->10, key = 2<br>
 Output:  1->2->3->5->10<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/LinkedList_Assignment13/blob/main/ans5.js)<br>
 ******************************************************************************************************************************
  **Question 6**<br>
 Given two sorted linked lists consisting of **N** and **M** nodes respectively. The task is to merge both of the lists (in place) and return the head of the merged list.<br>
@@ -72,7 +72,7 @@ Input: a: 1->1, b: 2->4<br>
 Output: 1->1->2->4<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/LinkedList_Assignment13/blob/main/ans6.js)<br>
 ******************************************************************************************************************************
 **Question 7**<br>
 Given a **Doubly Linked List**, the task is to reverse the given Doubly Linked List.<br>
@@ -81,7 +81,7 @@ Original Linked list 10 8 4 2<br>
 Reversed Linked list 2 4 8 10<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/LinkedList_Assignment13/blob/main/ans7.js)<br>
 ******************************************************************************************************************************
 **Question 8**<br>
 Given a doubly linked list and a position. The task is to delete a node from given position in a doubly linked list.<br>
@@ -97,4 +97,4 @@ Input:LinkedList = 1 <--> 5 <--> 2 <--> 9<br>
 x = 1<br>
 Output:5 2 9<br><br>
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/LinkedList_Assignment13/blob/main/ans8.js)<br>
